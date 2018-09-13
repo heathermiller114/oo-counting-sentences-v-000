@@ -30,5 +30,5 @@ class String
     sentences = []
     sentences << self.split(/[.?!]/)
     end
-    sentences.length
+  sentences.length
 end
